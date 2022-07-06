@@ -1,7 +1,7 @@
 ## Olá!Eu sou Danilo Ferreira, estudante UX/UI Design e iniciando na área de programação!
 
 <div align="center">
-  <a href="https://github.com/daniloferreira">
+  <a href="https://github.com/DaniloNSF">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniloferreira&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloferreira&layout=compact&langs_count=7&theme=rose_pine"/>
 </div>
