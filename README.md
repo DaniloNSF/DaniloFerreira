@@ -1,4 +1,4 @@
-## Olá, me chamo Danilo Ferreira!
+## Olá, me chamo Danilo Ferreira!Estudante de programação e sempre em busca de conhecimentos.
 
 <div align="center">
   <a href="https://github.com/DaniloNSF">
