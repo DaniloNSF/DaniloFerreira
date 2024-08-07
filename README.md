@@ -1,4 +1,4 @@
-## Olá, me chamo Danilo Ferreira e sou Dev Front-Edn Jr!
+## Olá, me chamo Danilo Ferreira e sou Desenvolvedor Front-End Jr!
 
 <div align="center">
   <a href="https://github.com/DaniloNSF">
