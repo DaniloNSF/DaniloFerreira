@@ -4,6 +4,8 @@
 
 ## Olá, me chamo Danilo Ferreira! Sou formado em Produção Multmídia na UNIJORGE. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UCSAL. Sempre buscando aprender e também para compartilhar meu conhecimento.
 
+### Linguagens e tecnologias
+
 <div align="center">
   <a href="https://github.com/DaniloNSF">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniloferreira&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
