@@ -1,4 +1,4 @@
-## Danilo Ferreira 😉 ##
+## 😉 Danilo Ferreira ##
 
 **`Desenvolvedor Front End Jr`**
 
