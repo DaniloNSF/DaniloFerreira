@@ -24,8 +24,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 
-##
-
 <img 
     align="left" 
     alt="JavaScript" 
@@ -34,6 +32,9 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
+<br/>
+<br/>
 
 <div> 
   <a href="https://www.behance.net/danniloferreira//" target="_blank"><img src=https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white></a>
