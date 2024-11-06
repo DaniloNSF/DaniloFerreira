@@ -1,6 +1,8 @@
-## Danilo Ferreira ##
+## Danilo Ferreira 😉 ##
 
-## Olá, me chamo Danilo Ferreira!Estudante de programação, me aprimorando na área e sempre em busca de mais conhecimento.
+**`Desenvolvedor Front End Jr`**
+
+## Olá, me chamo Danilo Ferreira! Sou formado em Produção Multmídia na UNIJORGE. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UCSAL. Sempre buscando aprender e também para compartilhar meu conhecimento.
 
 <div align="center">
   <a href="https://github.com/DaniloNSF">
