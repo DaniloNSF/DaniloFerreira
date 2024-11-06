@@ -1,6 +1,6 @@
 ## Danilo Ferreira 😉 ##
 
-**`Desenvolvedor Front End Jr`**
+**`Desenvolvedor Front-end Jr`**
 
 ## Olá, me chamo Danilo Ferreira! Sou formado em Produção Multimídia na UNIJORGE. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UCSAL. Sempre buscando aprender e também para compartilhar o meu conhecimento.
 
@@ -31,16 +31,20 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Figma" 
+    title="Figma"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+/>
 
 <br/>
 <br/>
 
-<div> 
-  <a href="https://www.behance.net/danniloferreira//" target="_blank"><img src=https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white></a>
-  <a href="https://www.linkedin.com/in/danilo-ferreira-39a025107/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://medium.com/@danilo-nsferreira/" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
-</div> 
-
+<div>
+    
 ### 📊 Estatísticas
 
 <p>
